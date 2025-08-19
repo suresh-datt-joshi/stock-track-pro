@@ -219,7 +219,7 @@ Project Link: [https://github.com/suresh-datt-joshi/stock-track-pro](https://git
 ## 🙏 Acknowledgements
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [Img Shields](https://shields.io)
-* [React Icons](https://react-icons.github.io/react-icons)
-* [Awesome README](https://github.com/matiassingers/awesome-readme)
+
+
+
 
