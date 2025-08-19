@@ -1,0 +1,20 @@
+/* index.css */
+
+/* Optional: A very basic CSS reset */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Optional: Define base font for the entire application */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif; /* Ensure 'Inter' is imported if not system font */
+}
+
+/* You can add global font imports here if using Google Fonts or similar */
+/* Example for Google Fonts (add this at the very top): */
+/* @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap'); */
+
+/* All other specific styles should be in App.css */
